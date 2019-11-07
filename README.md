@@ -7,7 +7,7 @@ Clone the repository, navigate to the folder where the repository has been clone
 ```shell
 python3 segfol /path/of/the/directory/
 ```
-`/path/to/the/directory` is the directory location, that needs to be uncluttered.
+`/path/to/the/directory/` is the directory location, that needs to be uncluttered.
 
 ## Requirements
 `python3` must be installed in your system.
