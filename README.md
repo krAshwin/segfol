@@ -5,7 +5,7 @@ Automation using Python : The script is primarily a segregator, that is used to 
 Clone the repository, navigate to the folder where the repository has been cloned and run the following command in the terminal,
 
 ```shell
-python3 segfol /path/of/the/directory
+python3 segfol /path/of/the/directory/
 ```
 `/path/to/the/directory` is the directory location, that needs to be uncluttered.
 
